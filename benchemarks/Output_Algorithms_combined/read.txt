@@ -1,1 +1,0 @@
-Output for all algorithms combined for maxIt = 2000 and different n_samples = [100, 300, 500, 800]
